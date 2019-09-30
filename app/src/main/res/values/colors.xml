@@ -3,4 +3,14 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="app_background">#FFFAFAFA</color>
+
+    <color name="app_text_primary">#FF333333</color>
+    <color name="app_text_summary">#FF999999</color>
+
+    <color name="app_item_bg_selected">#FFF5F5F5</color>
+    <color name="app_item_bg_transparent">#00000000</color>
+
+    <color name="image_stroke_color">#FFF1F1F1</color>
 </resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bear3.gank_kotlin.ui.common.weight.RoundImageView xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/image"
+        android:layout_width="112dp"
+        android:layout_height="112dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginEnd="4dp"
+        android:scaleType="centerCrop"
+        app:ratio_w_h_reference="width"
+        app:ratio_w_h_size="1"
+        app:round_type="round"
+        app:radius_size="@dimen/image_round_radius"
+        app:stroke_color="@color/image_stroke_color"
+        app:stroke_width="@dimen/image_stroke_width" />
